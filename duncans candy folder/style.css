@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(147, 147, 240);
+}
+
+h1{ 
+color: yellow;
+text-align: center;
+justify-content: center;
+font: sans;
+}
+
+.titles {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 4rem;
+    color: blueviolet;
+    text-decoration: none;
+}
